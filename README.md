@@ -11,25 +11,31 @@ Here are some ideas to get you started:
 -->
  
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a> &nbsp
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+ &ensp;
+</a> 
 <a href="https://twitter.com/bibhabasuM1610">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp
+ &ensp;
+</a> 
 <a href="https://www.kaggle.com/bibhabasumohapatra">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
-</a> &nbsp
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
+ &ensp;
+</a> 
 <a href="mailto:bibhabasumohapatrabm@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> &nbsp
+ &ensp;
+</a> 
 <!--
 <a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+ &ensp;
 </a>
 -->
 <a href="https://medium.com/@bibhabasumohapatrabm/about">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> &nbsp
+ &ensp;
+</a> 
 <br />
 
 ## Computer Vision, Quantitavie Mathematics, Data Science 
