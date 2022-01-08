@@ -60,9 +60,9 @@ Here are some ideas to get you started:
   - #### Tutorial to Lightgbm www.kaggle.com/bibhabasumohapatra/october-playground-with-lgbclassifier  and 
   - #### Tutorial to Xgboost Classifier https://www.kaggle.com/bibhabasumohapatra/xgboost-kfolds-october-playground
 
+
+
+## Currently Contributing and focussing on PyTorch Ignite and Kaggle Competitions
 <br />
-### Currently Contributing and focussing on PyTorch Ignite and Kaggle Competitions
-
-![bibhabasu's github stats](https://github-readme-stats.vercel.app/api?username=bibhabasumohapatra&show_icons=true&hide_border=true&theme=dracula)
-
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=bibhabasumohapatra&hide_border=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=bibhabasumohapatra&show_icons=true&hide_border=true&theme=dracula" />
+<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=bibhabasumohapatra&hide_border=true" />
